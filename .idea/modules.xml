@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/uniproof-integracao.iml" filepath="$PROJECT_DIR$/.idea/uniproof-integracao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/uniproof-user-client/uniproof-user-client.iml" filepath="$PROJECT_DIR$/uniproof-user-client/uniproof-user-client.iml" />
-    </modules>
-  </component>
-</project>
