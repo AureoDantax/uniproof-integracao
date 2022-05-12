@@ -5,6 +5,7 @@ import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Builder;
 import lombok.Data;
 
+@JsonInclude(Include.NON_NULL)
 @Builder
 @Data
 public class UserResponse {
@@ -12,6 +13,5 @@ public class UserResponse {
     private String message;
     private String token;
     private String companyToken;
-    private Integer termsOfUseVersion;
 
 }
